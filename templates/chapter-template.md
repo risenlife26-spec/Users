@@ -1,10 +1,12 @@
-# Chapter NN — [Title]
+# CHAPTER NN // [TITLE]
 
-*Status: [draft | partial | final]*
-*Date received: YYYY-MM-DD*
+## MANUSCRIPT
 
----
+[Paste text here]
 
-[Chapter text here. Preserve the author's line breaks, em dashes, and
-punctuation exactly as delivered. Do not edit. If the chapter is partial,
-mark `[CONTINUES]` at the end.]
+## EDITORIAL NOTES
+
+ * **Status:** [Draft / Locked]
+ * **Somatic Check:** [Notes on body-language tell]
+ * **Audit Flags:** [Ghost Audit / Narrator Applause / Motif Drift]
+ * **Truncation:** [Check for em-dash/hyphen cut-offs]
