@@ -1,0 +1,189 @@
+[
+  {
+    "idx": 1,
+    "title": "The Gate",
+    "filename": "01_The_Gate.md",
+    "words": 1789,
+    "source_lines": [
+      12,
+      99
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 2,
+    "title": "The Compartments",
+    "filename": "02_The_Compartments.md",
+    "words": 3346,
+    "source_lines": [
+      639,
+      841
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 3,
+    "title": "Seven Shovels of Dirt",
+    "filename": "03_Seven_Shovels_of_Dirt.md",
+    "words": 3443,
+    "source_lines": [
+      985,
+      1165
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 4,
+    "title": "The Seam",
+    "filename": "04_The_Seam.md",
+    "words": 5461,
+    "source_lines": [
+      1173,
+      1645
+    ],
+    "source": "session_transcript"
+  },
+  {
+    "idx": 5,
+    "title": "The Ditch",
+    "filename": "05_The_Ditch.md",
+    "words": 2261,
+    "source_lines": [
+      1864,
+      1964
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 6,
+    "title": "The Apartment",
+    "filename": "06_The_Apartment.md",
+    "words": 524,
+    "source_lines": [
+      2128,
+      2148
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 7,
+    "title": "The Beach",
+    "filename": "07_The_Beach.md",
+    "words": 2445,
+    "source_lines": [
+      2152,
+      2256
+    ],
+    "source": "session_transcript"
+  },
+  {
+    "idx": 8,
+    "title": "The Framer",
+    "filename": "08_The_Framer.md",
+    "words": 2329,
+    "source_lines": [
+      2261,
+      2369
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 9,
+    "title": "The Diagnostic",
+    "filename": "09_The_Diagnostic.md",
+    "words": 2193,
+    "source_lines": [
+      2371,
+      2441
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 10,
+    "title": "The Patching",
+    "filename": "10_The_Patching.md",
+    "words": 2774,
+    "source_lines": [
+      2446,
+      2675
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 11,
+    "title": "Mud",
+    "filename": "11_Mud.md",
+    "words": 2603,
+    "source_lines": [
+      2831,
+      3055
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 12,
+    "title": "The Boy in the Stall",
+    "filename": "12_The_Boy_in_the_Stall.md",
+    "words": 888,
+    "source_lines": [
+      3173,
+      3207
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 13,
+    "title": "The Stone",
+    "filename": "13_The_Stone.md",
+    "words": 2185,
+    "source_lines": [
+      3510,
+      3687
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 14,
+    "title": "Mrs. Thompson",
+    "filename": "14_Mrs__Thompson.md",
+    "words": 1583,
+    "source_lines": [
+      3727,
+      3735
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 15,
+    "title": "The Vial",
+    "filename": "15_The_Vial.md",
+    "words": 708,
+    "source_lines": [
+      3824,
+      3864
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 16,
+    "title": "The Purple House",
+    "filename": "16_The_Purple_House.md",
+    "words": 1777,
+    "source_lines": [
+      4008,
+      4016
+    ],
+    "source": "good_ones_26"
+  },
+  {
+    "idx": 17,
+    "title": "The Inheritance",
+    "filename": "17_The_Inheritance.md",
+    "words": 2095,
+    "source_lines": [
+      4142,
+      4153
+    ],
+    "source": "good_ones_26"
+  }
+]

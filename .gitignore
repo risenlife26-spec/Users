@@ -1,0 +1,13 @@
+# Office / Word lock and temp files
+~$*
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+.vscode/
+.idea/
